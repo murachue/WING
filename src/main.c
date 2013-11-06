@@ -22,7 +22,7 @@ static char rcsid[] = "$Header: /user/masui/WING/wing/RCS/main.c,v 1.27 1995/02/
 #include	<GLUT/glut.h>
 
 #include	<sys/types.h>
-#include	<sys/mman.h>
+//#include	<sys/mman.h>
 /*
 #include	<alloca.h>
 */

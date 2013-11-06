@@ -16,7 +16,7 @@ static char rcsid[] = "$Header: /user/masui/WING/wing/RCS/readdata.c,v 1.28 1995
 
 #include <stdio.h>
 #include <sys/types.h>
-#include <dirent.h>
+#include "dirent.h"
 #include <string.h>
 #include "dataentry.h"
 #include "rgb.h"
